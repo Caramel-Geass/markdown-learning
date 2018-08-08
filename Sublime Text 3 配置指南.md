@@ -14,3 +14,6 @@ Package Control 安装方法按照[官网教程](https://packagecontrol.io/insta
 1. Markdown Editor: 提供 Markdown 的书写支持，支持 Markdown 语法高亮。
 2. Markdown Preview: 提供生成网页 html 的功能，并能够随时通过浏览器对当前的文本进行预览。
 3. OmniMarkupPreviwer: 利用浏览器进行当前文本的实时预览，但是还没弄明白怎么用。。。
+
+### 2.2 LaTeX 插件
+1. LaTeXTools：提供 LateX 的书写支持。
